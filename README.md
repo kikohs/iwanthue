@@ -1,4 +1,4 @@
-# iWantHue
+# iWantHue (ported to the browser)
 
 **Colors for data scientists.** *Generate and refine palettes of optimally distinct colors.*
 
