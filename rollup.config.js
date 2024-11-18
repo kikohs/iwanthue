@@ -10,7 +10,8 @@ import terser from '@rollup/plugin-terser';
      name: 'IWantHue',
    },
 
-    plugins: [commonjs(), resolve(), terser()],
+    // plugins: [commonjs(), resolve(), terser()],
+    plugins: [commonjs(), resolve()],
  };
  
  export default config;
